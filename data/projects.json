@@ -5,7 +5,7 @@
     "details": "Built with React and Tailwind CSS, this app uses the Spotify API to fetch and display lyrics in sync with the currently playing song.",
     "tags": ["React", "Tailwind", "Spotify API"],
     "github": "https://github.com/mrinal1404/lyrics-finder",
-    "demo": "https://lyrics.mrinal.live",
+    "demo": "https://mrinal140420.github.io/spotifyFrontend/",
     "image": "./assets/images/ani1.json"
   },
   {
