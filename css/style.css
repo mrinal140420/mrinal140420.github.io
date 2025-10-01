@@ -83,7 +83,7 @@ body[data-theme="light"] .navbar-toggler-icon {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./assets/images/bg.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../assets/images/bg.jpg') center/cover no-repeat;
     min-height: 80vh;
     display: flex;
     align-items: center;
@@ -98,14 +98,14 @@ body[data-theme="light"] .navbar-toggler-icon {
 }
 
 body[data-theme="light"] .hero {
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('./assets/images/bg.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../assets/images/bg.jpg') center/cover no-repeat;
     /* Optional: Uncomment to use a different light mode image
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('assets/images/bg-light.jpg') center/cover no-repeat;
     */
 }
 
 .thankyou-hero {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('./assets/images/thankyou-bg.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../assets/images/thankyou-bg.jpg') center/cover no-repeat;
     min-height: 80vh;
     display: flex;
     align-items: center;
@@ -118,7 +118,7 @@ body[data-theme="light"] .hero {
 }
 
 body[data-theme="light"] .thankyou-hero {
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('./assets/images/thankyou-bg.jpg') center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('../assets/images/thankyou-bg.jpg') center/cover no-repeat;
 }
 
 .hero h1, .hero h2, .thankyou-hero h2 {
