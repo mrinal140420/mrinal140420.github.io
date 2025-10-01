@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (hero) {
         const bgImage = getComputedStyle(hero).backgroundImage;
         if (!bgImage.includes('bg.jpg')) {
-            console.warn('Hero background image not loaded; check assets/images/bg.jpg');
+            console.warn('Hero background image not loaded; check ./assets/images/bg.jpg');
         } else {
             console.log('Hero background image loaded successfully.');
         }
