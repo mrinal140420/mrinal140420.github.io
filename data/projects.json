@@ -52,6 +52,19 @@
   "github": "https://github.com/mrinal140420/secret",
   "demo": "https://secret-404e.onrender.com/client-app/",
   "image": "./assets/images/ani6.json"
+},
+  {
+  "title": "Vulnerability Assessment & Defacement Detection Platform",
+  "description": "An integrated GUI platform to assess website vulnerabilities, detect defacement, and scan Android apps for misconfigurations or malicious content.",
+  "details": "Frontend built with React for a user-friendly interface and backend powered by Express.js. Supports website scanning (headers, SSL, cookies, ports, JS libraries, directory listing, robots/sitemap checks) and Android APK analysis (permissions, manifest, exported components). Generates detailed PDF reports with mitigation steps.",
+  "tags": ["React", "Node.js", "Express", "Security", "Vulnerability Scanner", "PDF Reports", "APK Analysis"],
+  "github": {
+    "frontend": "https://github.com/mrinal140420/vulnerability",
+    "backend": "https://github.com/mrinal140420/vulnerability-platform-backend"
+  },
+  "demo": "https://vulnerability-smoky.vercel.app/",
+  "image": "./assets/images/ani7.png"
 }
+
 
 ]
