@@ -63,7 +63,7 @@
     "backend": "https://github.com/mrinal140420/vulnerability-platform-backend"
   },
   "demo": "https://vulnerability-smoky.vercel.app/",
-  "image": "./assets/images/ani7.png"
+  "image": "./assets/images/ani7.json"
 }
 
 
