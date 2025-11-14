@@ -4,7 +4,7 @@
     "description": "Real-time lyrics synced with Spotify playback.",
     "details": "Built with React and Tailwind CSS, this app uses the Spotify API to fetch and display lyrics in sync with the currently playing song.",
     "tags": ["React", "Tailwind", "Spotify API"],
-    "github": "https://github.com/mrinal1404/lyrics-finder",
+    "github": "https://github.com/mrinal140420/SpotifyBackend",
     "demo": "https://mrinal140420.github.io/spotifyFrontend/",
     "image": "./assets/images/ani1.json"
   },
@@ -22,7 +22,7 @@
     "description": "A real-time American Sign Language letter detection system using MediaPipe and TensorFlow for live webcam input.",
     "details": "Uses Python, OpenCV, and TensorFlow to detect ASL letters from webcam input with high accuracy in real-time.",
     "tags": ["Python", "OpenCV", "MediaPipe", "TensorFlow", "ASL"],
-    "github": "https://github.com/mrinal140420/asl_letter_recogniser",
+    "github": "https://github.com/mrinal140420/ASL-Recogniser",
     "demo": "https://mrinal140420.github.io/ASL-Recogniser/",
     "image": "./assets/images/ani3.json"
   },
@@ -31,7 +31,7 @@
     "description": "A Python-based NLP project to summarize long texts using techniques like frequency-based and BERT-based models.",
     "details": "Implements TextRank and BERT models for efficient text summarization, ideal for processing large documents.",
     "tags": ["Python", "NLP", "BERT", "TextRank", "Summarization"],
-    "github": "https://github.com/mrinal140420/text_summariser",
+    "github": "https://github.com/mrinal140420/voice-text-summarizer",
     "demo": "https://mrinal140420.github.io/voice-text-summarizer/",
     "image": "./assets/images/ani4.json"
   },
@@ -49,7 +49,7 @@
   "description": "Real-time video surveillance with CSS filters for educational cybersecurity exploration.",
   "details": "Built with Express.js, Socket.IO, and WebRTC, this app streams live video from a client to an admin panel, applying CSS filters (e.g., black & white, blur, sunny) to the client view. Snapshots with filters are sent to the admin and downloaded locally. Developed for learning ethical hacking and cybersecurity concepts. **Disclaimer**: For educational purposes only; the creator is not liable for misuse.",
   "tags": ["Express.js", "Socket.IO", "WebRTC", "CSS Filters"],
-  "github": "https://github.com/mrinal140420/secret",
+  "github": "https://github.com/mrinal140420/vulnerability-platform-backend",
   "demo": "https://secret-404e.onrender.com/client-app/",
   "image": "./assets/images/ani6.json"
 },
