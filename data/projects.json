@@ -120,7 +120,7 @@
          "Vulnerability Management"
       ],
       "github":"https://github.com/mrinal140420/patchsense",
-      "demo":"",
+      "demo":"https://patchsense.vercel.app/",
       "image":"./assets/images/ani8.json"
    }
 ]
