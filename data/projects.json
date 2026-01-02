@@ -64,7 +64,25 @@
   },
   "demo": "https://vulnerability-smoky.vercel.app/",
   "image": "./assets/images/ani7.json"
+},
+  {
+  "title": "PatchSense",
+  "description": "AI-assisted vulnerability risk prioritization dashboard that goes beyond CVSS to support smarter patching decisions.",
+  "details": "PatchSense analyzes CVE data from NVD using machine learning to predict exploitation likelihood and combines it with asset exposure and criticality to compute a final risk score. The system outputs ranked vulnerabilities and weekly patch plans via a React-based dashboard. Designed as a scalable cybersecurity analytics platform with a clear separation between ML inference and frontend visualization.",
+  "tags": [
+    "Cybersecurity",
+    "Machine Learning",
+    "NVD",
+    "CVE",
+    "React",
+    "Risk Scoring",
+    "Vulnerability Management"
+  ],
+  "github": "https://github.com/mrinal140420/patchsense",
+  "demo": "",
+  "image": "./assets/images/ani8.json"
 }
+
 
 
 ]
