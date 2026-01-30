@@ -122,5 +122,40 @@
       "github":"https://github.com/mrinal140420/patchsense",
       "demo":"https://patchsense.vercel.app/",
       "image":"./assets/images/ani8.json"
-   }
+   },
+   {
+  "title": "Phishing Email Sentinel",
+  "description": "An intelligent phishing detection system that analyzes emails using layered rule-based checks and machine learning techniques.",
+  "details": "Phishing Email Sentinel is a cybersecurity-focused project designed to identify malicious and phishing emails with high accuracy. The system combines traditional rule-based analysis (such as URL inspection, header anomalies, and keyword patterns) with machine learning models to classify emails as safe or malicious. It provides a clear risk assessment to help users understand potential threats and improve email security awareness.",
+  "tags": [
+    "Cybersecurity",
+    "Phishing Detection",
+    "Machine Learning",
+    "Email Security",
+    "Rule-Based Analysis",
+    "Python",
+    "NLP"
+  ],
+  "github": "https://github.com/mrinal140420/phishing-email-sentinel",
+  "demo": "https://phishingemailsentinel.netlify.app/",
+  "image": "./assets/images/ani9.json"
+}
+,{
+  "title": "SilentDrop",
+  "description": "A privacy-first, zero-knowledge file sharing platform focused on secure and anonymous data transfer.",
+  "details": "SilentDrop is a secure file-sharing platform designed with privacy as its core principle. It enables users to upload and share files without exposing file contents, metadata, or user identity to the server. Built using modern web technologies, the system enforces client-side encryption, time-limited access links, and minimal data retention policies. SilentDrop demonstrates practical implementation of zero-knowledge security concepts and secure data handling techniques.",
+  "tags": [
+    "Cybersecurity",
+    "Privacy",
+    "Zero-Knowledge",
+    "File Sharing",
+    "Encryption",
+    "React",
+    "Node.js"
+  ],
+  "github": "https://github.com/mrinal140420/silentdrop",
+  "demo": "https://silent-frontend-gamma.vercel.app/",
+  "image": "./assets/images/ani10.json"
+}
+
 ]
